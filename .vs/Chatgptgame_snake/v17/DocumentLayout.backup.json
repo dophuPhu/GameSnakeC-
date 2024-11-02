@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SnakeGame-main\\Chatgptgame_snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|d:\\snakegame-main\\chatgptgame_snake\\chatgptgame_snake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|solutionrelative:chatgptgame_snake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|D:\\SnakeGame-main\\Chatgptgame_snake\\chatgptgame_snake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|solutionrelative:chatgptgame_snake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|D:\\SnakeGame-main\\Chatgptgame_snake\\chatgptgame_snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|solutionrelative:chatgptgame_snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|D:\\SnakeGame-main\\Chatgptgame_snake\\chatgptgame_snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|solutionrelative:chatgptgame_snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|D:\\SnakeGame-main\\Chatgptgame_snake\\chatgptgame_snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|solutionrelative:chatgptgame_snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|D:\\SnakeGame-main\\Chatgptgame_snake\\chatgptgame_snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|solutionrelative:chatgptgame_snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|D:\\SnakeGame-main\\Chatgptgame_snake\\chatgptgame_snake\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|Chatgptgame_snake\\Chatgptgame_snake.csproj|solutionrelative:chatgptgame_snake\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Form1.cs",
+              "RelativeDocumentMoniker": "Chatgptgame_snake\\Form1.cs",
+              "ToolTip": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Form1.cs",
+              "RelativeToolTip": "Chatgptgame_snake\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:58:31.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Chatgptgame_snake\\Form1.Designer.cs",
+              "ToolTip": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Form1.Designer.cs",
+              "RelativeToolTip": "Chatgptgame_snake\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:47:45.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "snakeGameFile.cs [Design]",
+              "DocumentMoniker": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\snakeGameFile.cs",
+              "RelativeDocumentMoniker": "Chatgptgame_snake\\snakeGameFile.cs",
+              "ToolTip": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\snakeGameFile.cs [Design]*",
+              "RelativeToolTip": "Chatgptgame_snake\\snakeGameFile.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:47:32.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "snakeGameFile.cs",
+              "DocumentMoniker": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\snakeGameFile.cs",
+              "RelativeDocumentMoniker": "Chatgptgame_snake\\snakeGameFile.cs",
+              "ToolTip": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\snakeGameFile.cs*",
+              "RelativeToolTip": "Chatgptgame_snake\\snakeGameFile.cs*",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:58:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Form1.cs",
+              "RelativeDocumentMoniker": "Chatgptgame_snake\\Form1.cs",
+              "ToolTip": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Form1.cs [Design]",
+              "RelativeToolTip": "Chatgptgame_snake\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:47:27.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Program.cs",
+              "RelativeDocumentMoniker": "Chatgptgame_snake\\Program.cs",
+              "ToolTip": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\Program.cs",
+              "RelativeToolTip": "Chatgptgame_snake\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:47:23.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\App.config",
+              "RelativeDocumentMoniker": "Chatgptgame_snake\\App.config",
+              "ToolTip": "D:\\SnakeGame-main\\Chatgptgame_snake\\Chatgptgame_snake\\App.config",
+              "RelativeToolTip": "Chatgptgame_snake\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T07:10:05.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
